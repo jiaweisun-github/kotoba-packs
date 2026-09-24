@@ -15,5 +15,5 @@ The dictionary data is distributed under **[CC BY-SA 4.0](https://creativecommon
 - **JLPT word lists**: Jonathan Waller, [tanos.co.uk](http://www.tanos.co.uk/jlpt/) (CC BY); JMdict mapping by [stephenmk/yomitan-jlpt-vocab](https://github.com/stephenmk/yomitan-jlpt-vocab) (CC BY-SA 4.0).
 - **Furigana**: [JmdictFurigana](https://github.com/Doublevil/JmdictFurigana) (CC BY-SA 4.0).
 - **CC-CEDICT**: published by [MDBG](https://www.mdbg.net/chinese/dictionary?page=cc-cedict) (CC BY-SA 4.0), based on CEDICT by Paul Andrew Denisowski.
-- **HSK word lists**: [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary) by drkameleon (MIT).
+- **HSK word lists**: [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary) by drkameleon (MIT); official pinyin from [hsk-vocabulary](https://github.com/clem109/hsk-vocabulary) by clem109 (MIT).
 - **Example sentences**: the [Tatoeba Project](https://tatoeba.org) (CC BY 2.0 FR).
